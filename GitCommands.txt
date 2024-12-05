@@ -1,0 +1,24 @@
+
+Important Points for both Git & Github:-
+------------------------------------------
+
+1)When ever we are creating a new repository from our github account it will generate a Git Repo URL.
+
+Example:- https://github.com/NJV666/DemoGitCommandsPractice.git
+
+2)After creating the repository we need to create any type of files.
+
+3)When we make changes to files we need add and then stage them to commit.
+	
+	a)To add files to staging area we will use git add command.
+	b)To commit files to local repository we will use git commit command.
+	
+Note:- We should provide the reason for commit message.
+
+4)To publish local commits to central repository we will use git push command.
+
+5)Whenever we commit git will generate commit-Id.
+6)commit-Id contains 40 alphanumeric characters but from 40 alphanumeric characters it will 
+  display only first 7 characters to us. 
+  
+  Example:-564fd 9564fc18654eb0850c5a6c1e5d3b16380cb
